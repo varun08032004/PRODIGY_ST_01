@@ -36,7 +36,7 @@ The test cases are written in Markdown format and cover both:
 ## 🧑‍💻 Author
 
 - **Name:** Varun Girish Deshmukh  
-- **Track:** Quality Assurance (QA)  
+- **Track:** Software Testing 
 - **Task Number:** 01  
 - **Internship Program:** Prodigy InfoTech
 
@@ -44,5 +44,5 @@ The test cases are written in Markdown format and cover both:
 
 ## 🌐 Repository Link
 
-> [GitHub Repo](https://github.com/YourUsername/PRODIGY_QA_01)  
+> [GitHub Repo](https://github.com/varun08032004/PRODIGY_ST_01)  
 
